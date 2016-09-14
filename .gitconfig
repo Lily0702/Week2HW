@@ -1,0 +1,6 @@
+[core]
+	autocrlf = true
+	excludesfile = C:\\Users\\user\\Documents\\gitignore_global.txt
+[user]
+	name = LILY
+	email = wizoza55697@gmail.com
